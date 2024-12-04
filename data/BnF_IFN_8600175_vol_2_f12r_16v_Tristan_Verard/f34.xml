@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-12-04T13:30:18.479378+00:00</Created>
+        <LastChange>2024-12-04T13:30:18.479407+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="f34.jpg" imageWidth="1616" imageHeight="2500">
+
+    
+    <TextRegion id="eSc_textblock_d4ddc38f"  custom="structure {type:MainZone;}">
+      <Coords points="510,275 982,283 998,1314 973,2039 475,2031 450,358 458,291 510,275"/>
+      
+      
+      <TextLine id="eSc_line_84e7b60b" custom="structure {type:DefaultLine;}">
+        <Coords points="961,281 940,281 919,281 898,281 877,281 857,281 836,281 815,279 794,279 773,279 752,279 731,279 711,279 690,279 669,279 648,277 627,277 606,277 585,277 565,277 544,277 523,277 525,316 525,337 963,322 965,310 961,281 961,281"/>
+        <Baseline points="525,316 965,310"/>
+        <TextEquiv>
+          <Unicode>QUant dinas entent ce si cõmen</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_255c0abc" custom="structure {type:DefaultLine;}">
+        <Coords points="515,358 515,377 965,366 967,350 961,316 512,325 515,358"/>
+        <Baseline points="515,358 967,350"/>
+        <TextEquiv conf="0.9855990716389247">
+          <Unicode>ce a soubz rire cõe celui qui tout</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_eabbe73c" custom="structure {type:DefaultLine;}">
+        <Coords points="458,400 458,418 971,404 971,391 965,352 456,366 458,400"/>
+        <Baseline points="458,400 971,391"/>
+        <TextEquiv>
+          <Unicode>laffaire scauoit, car les deux compai</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_bb6df4d1" custom="structure {type:DefaultLine;}">
+        <Coords points="462,439 462,456 969,447 971,433 965,397 460,406 462,439"/>
+        <Baseline points="462,439 971,433"/>
+        <TextEquiv conf="0.9950405137879508">
+          <Unicode>gnons lui auoient tout conte. Quãt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_bae4186b" custom="structure {type:DefaultLine;}">
+        <Coords points="952,435 932,435 911,435 890,435 877,435 452,443 454,481 454,491 971,485 971,472 965,435 952,435"/>
+        <Baseline points="454,481 971,472"/>
+        <TextEquiv conf="0.9842795267701149">
+          <Unicode>la royne uoit dinas rire si pense que il</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_539b1b78" custom="structure {type:DefaultLine;}">
+        <Coords points="460,522 460,539 967,525 969,512 963,479 458,487 460,522"/>
+        <Baseline points="460,522 969,512"/>
+        <TextEquiv conf="0.9717669628915333">
+          <Unicode>scait le uray de cest affaire si dist, dy-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_acc0b24b" custom="structure {type:DefaultLine;}">
+        <Coords points="460,562 460,575 971,568 973,556 967,525 458,529 460,562"/>
+        <Baseline points="460,562 973,556"/>
+        <TextEquiv conf="0.9770202009301436">
+          <Unicode>nas ie scay bien que uous scauez la ue</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9420fbc1" custom="structure {type:DefaultLine;}">
+        <Coords points="711,560 690,560 669,560 648,560 627,562 606,562 585,562 565,562 548,562 460,570 462,604 462,614 973,606 973,595 969,564 715,560 711,560"/>
+        <Baseline points="462,604 973,595"/>
+        <TextEquiv conf="0.9760592664991107">
+          <Unicode>rite de ceste chose or uous prie ie par la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8d54e5b0" custom="structure {type:DefaultLine;}">
+        <Coords points="464,643 464,658 969,650 971,635 965,600 462,608 464,643"/>
+        <Baseline points="464,643 971,635"/>
+        <TextEquiv conf="0.9867400204813158">
+          <Unicode>foy q̃ uous deuez a tous ceulx du mõ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ef9739f7" custom="structure {type:DefaultLine;}">
+        <Coords points="462,685 462,702 971,689 971,677 965,645 460,652 462,685"/>
+        <Baseline points="462,685 971,677"/>
+        <TextEquiv>
+          <Unicode>de que uous men dyez la uerite. Dãe</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2ecafded" custom="structure {type:DefaultLine;}">
+        <Coords points="467,722 467,739 969,733 971,718 965,689 464,691 467,722"/>
+        <Baseline points="467,722 971,718"/>
+        <TextEquiv conf="0.9970172392694574">
+          <Unicode>fait dinas tant me auez cõiure que ie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_11207898" custom="structure {type:DefaultLine;}">
+        <Coords points="462,766 462,781 969,772 971,758 965,720 460,733 462,766"/>
+        <Baseline points="462,766 971,758"/>
+        <TextEquiv conf="0.9784668354611648">
+          <Unicode>le uous diray; lors lui conte tout mot</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_28803a70" custom="structure {type:DefaultLine;}">
+        <Coords points="464,808 464,818 971,810 971,800 965,766 462,772 464,808"/>
+        <Baseline points="464,808 971,800"/>
+        <TextEquiv conf="0.9788703902771598">
+          <Unicode>a mot le fait sicõme ie uous ay conte</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2e635347" custom="structure {type:DefaultLine;}">
+        <Coords points="469,847 469,860 971,854 973,841 967,808 467,812 469,847"/>
+        <Baseline points="469,847 973,841"/>
+        <TextEquiv>
+          <Unicode>que le roy abbatit keux et cõme gahe-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5fb1097e" custom="structure {type:DefaultLine;}">
+        <Coords points="467,887 467,900 971,897 973,883 967,843 464,852 467,887"/>
+        <Baseline points="467,887 973,883"/>
+        <TextEquiv conf="0.9810394658928826">
+          <Unicode>riet abbatit le roy et andret et cõme ilz</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b4dbeed7" custom="structure {type:DefaultLine;}">
+        <Coords points="469,931 469,943 973,939 975,925 969,891 467,895 469,931"/>
+        <Baseline points="469,931 975,925"/>
+        <TextEquiv conf="0.9953448146581649">
+          <Unicode>eussent este mors se ilz ne eussent crie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d93af1f6" custom="structure {type:DefaultLine;}">
+        <Coords points="469,970 469,983 971,979 973,964 967,931 467,935 469,970"/>
+        <Baseline points="469,970 973,964"/>
+        <TextEquiv conf="0.9820025654939505">
+          <Unicode>merci et par ce eschapperẽt ilz. Dieux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_12fcd0cc" custom="structure {type:DefaultLine;}">
+        <Coords points="469,1012 469,1027 973,1022 975,1006 969,968 467,970 469,1012"/>
+        <Baseline points="469,1012 975,1006"/>
+        <TextEquiv>
+          <Unicode>dist la royne quãt elle oit ce tant se pei</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_38355c86" custom="structure {type:DefaultLine;}">
+        <Coords points="469,1052 469,1068 973,1060 975,1047 969,1008 467,1018 469,1052"/>
+        <Baseline points="469,1052 975,1047"/>
+        <TextEquiv>
+          <Unicode>ne le roy marc de foire ennuy aux che</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_602508b3" custom="structure {type:DefaultLine;}">
+        <Coords points="469,1093 469,1104 977,1100 977,1089 971,1056 467,1058 469,1093"/>
+        <Baseline points="469,1093 977,1089"/>
+        <TextEquiv>
+          <Unicode>ualiers errans certes sil sen repentoit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_95c8526b" custom="structure {type:DefaultLine;}">
+        <Coords points="469,1133 469,1145 971,1139 973,1127 967,1095 467,1095 469,1133"/>
+        <Baseline points="469,1133 973,1127"/>
+        <TextEquiv conf="0.9658723374207815">
+          <Unicode>encores ce seroit a bon droit. dynas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0574f7d7" custom="structure {type:DefaultLine;}">
+        <Coords points="473,1175 473,1189 971,1185 973,1168 967,1135 471,1139 473,1175"/>
+        <Baseline points="473,1175 973,1168"/>
+        <TextEquiv conf="0.9810539774405651">
+          <Unicode>fait la royne et ou sõt les deux cheua</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_791a5b8c" custom="structure {type:DefaultLine;}">
+        <Coords points="469,1214 469,1231 971,1231 973,1208 967,1177 467,1181 469,1214"/>
+        <Baseline points="469,1214 973,1208"/>
+        <TextEquiv conf="0.9932474509665841">
+          <Unicode>liers qui ce ont fait. Dame fait dinas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_68075934" custom="structure {type:DefaultLine;}">
+        <Coords points="471,1258 471,1266 975,1266 977,1252 971,1216 469,1220 471,1258"/>
+        <Baseline points="471,1258 977,1252"/>
+        <TextEquiv conf="0.9888966711791786">
+          <Unicode>ilz sont allez eu royaume de logres ⁊</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_23ef65c8" custom="structure {type:DefaultLine;}">
+        <Coords points="683,1256 663,1256 648,1256 633,1256 621,1258 604,1258 475,1262 477,1297 477,1312 700,1306 700,1291 694,1256 683,1256"/>
+        <Baseline points="477,1297 700,1291"/>
+        <TextEquiv conf="0.9827651348378923">
+          <Unicode>aussi estoient ilz</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e64e40b0" custom="structure {type:DefaultLine;}">
+        <Coords points="692,1293 671,1293 650,1293 629,1293 608,1295 588,1295 525,1300 527,1333 527,1345 973,1343 975,1331 971,1297 692,1289 692,1293"/>
+        <Baseline points="527,1333 975,1331"/>
+        <TextEquiv>
+          <Unicode>QUant le roy marc et andret fu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4adfefd5" custom="structure {type:DefaultLine;}">
+        <Coords points="525,1375 525,1387 980,1387 980,1375 980,1341 525,1341 525,1375"/>
+        <Baseline points="525,1375 980,1375"/>
+        <TextEquiv conf="0.9944486637269297">
+          <Unicode>rent partiz des deux cõpagnõs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ca05cf6f" custom="structure {type:DefaultLine;}">
+        <Coords points="848,1377 827,1377 806,1377 786,1377 765,1377 744,1377 723,1377 702,1377 681,1377 660,1377 640,1377 619,1377 598,1377 577,1377 556,1377 535,1377 533,1370 473,1370 475,1416 475,1435 977,1427 980,1410 975,1379 848,1377 848,1377"/>
+        <Baseline points="475,1416 980,1410"/>
+        <TextEquiv conf="0.9839131643897608">
+          <Unicode>ilz mõterent sur leurs cheuaulx et se</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_82926316" custom="structure {type:DefaultLine;}">
+        <Coords points="473,1458 473,1472 977,1466 980,1454 973,1420 471,1422 473,1458"/>
+        <Baseline points="473,1458 980,1454"/>
+        <TextEquiv>
+          <Unicode>trayent uers le grant chemin pour sa</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c6ea141a" custom="structure {type:DefaultLine;}">
+        <Coords points="475,1497 475,1516 971,1510 973,1491 967,1456 473,1464 475,1497"/>
+        <Baseline points="475,1497 973,1491"/>
+        <TextEquiv conf="0.9775996590271975">
+          <Unicode>uoir silz trouueroient lieu ou ilz peus</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f03c49b9" custom="structure {type:DefaultLine;}">
+        <Coords points="477,1537 477,1556 980,1547 980,1537 977,1500 477,1500 477,1537"/>
+        <Baseline points="477,1537 980,1537"/>
+        <TextEquiv conf="0.9927917486283837">
+          <Unicode>sẽt huimais heberger, car il estoit biẽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_afe9ad02" custom="structure {type:DefaultLine;}">
+        <Coords points="955,1539 934,1539 913,1539 892,1539 871,1539 850,1539 829,1539 809,1539 788,1539 771,1539 475,1543 477,1579 477,1600 975,1587 977,1575 971,1539 955,1539"/>
+        <Baseline points="477,1579 977,1575"/>
+        <TextEquiv>
+          <Unicode>prez de minuyt et quãt ilz furent uenꝰ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_516e6d1a" custom="structure {type:DefaultLine;}">
+        <Coords points="955,1577 934,1577 913,1577 900,1577 475,1587 477,1618 477,1635 977,1635 980,1612 973,1577 955,1577"/>
+        <Baseline points="477,1618 980,1612"/>
+        <TextEquiv>
+          <Unicode>au grant chemin keux demande a ga</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_63d0a73d" custom="structure {type:DefaultLine;}">
+        <Coords points="477,1662 477,1675 980,1666 982,1654 975,1620 475,1627 477,1662"/>
+        <Baseline points="477,1662 982,1654"/>
+        <TextEquiv conf="0.9672655656531051">
+          <Unicode>heriet ou il uouldra cheuaucher. Cer-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b4874383" custom="structure {type:DefaultLine;}">
+        <Coords points="477,1702 477,1712 980,1714 982,1695 975,1660 475,1666 477,1702"/>
+        <Baseline points="477,1702 982,1695"/>
+        <TextEquiv>
+          <Unicode>tes dist gaheriet ie men retourneray</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c32f460f" custom="structure {type:DefaultLine;}">
+        <Coords points="975,1720 973,1704 475,1706 477,1741 477,1752 977,1750 980,1737 977,1735 975,1720"/>
+        <Baseline points="477,1741 980,1737"/>
+        <TextEquiv>
+          <Unicode>eu royaume de logres car trop ay se-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_58206f75" custom="structure {type:DefaultLine;}">
+        <Coords points="969,1743 477,1745 479,1783 479,1795 977,1789 980,1777 973,1743 969,1743"/>
+        <Baseline points="479,1783 980,1777"/>
+        <TextEquiv conf="0.9933316707611084">
+          <Unicode>iourne en cornouaille Se maist dieu</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_22cce26d" custom="structure {type:DefaultLine;}">
+        <Coords points="959,1781 656,1781 644,1783 623,1783 602,1783 581,1783 560,1783 540,1783 519,1783 498,1783 477,1783 479,1820 479,1837 975,1835 977,1816 973,1797 959,1781"/>
+        <Baseline points="479,1820 977,1816"/>
+        <TextEquiv>
+          <Unicode>dist keux uoꝰ dictes uoir aussi feray</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fed108be" custom="structure {type:DefaultLine;}">
+        <Coords points="977,1856 959,1825 477,1829 479,1862 479,1881 980,1875 982,1858 977,1839 977,1856"/>
+        <Baseline points="479,1862 982,1858"/>
+        <TextEquiv>
+          <Unicode>ie. Tout ainsi cõe ilz parloient a tãt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ffa52cf0" custom="structure {type:DefaultLine;}">
+        <Coords points="959,1860 479,1868 481,1904 481,1922 977,1910 980,1897 973,1864 959,1860"/>
+        <Baseline points="481,1904 980,1897"/>
+        <TextEquiv conf="0.9944042386235418">
+          <Unicode>uecy uenir dinas le seneschal arme de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1b9f32ac" custom="structure {type:DefaultLine;}">
+        <Coords points="481,1941 481,1956 980,1952 982,1937 975,1904 479,1908 481,1941"/>
+        <Baseline points="481,1941 982,1937"/>
+        <TextEquiv conf="0.9942942712758038">
+          <Unicode>toutes armes qui uenoit de cintagel ⁊</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9ea4931d" custom="structure {type:DefaultLine;}">
+        <Coords points="713,1941 692,1941 671,1941 650,1941 629,1941 617,1941 483,1950 485,1983 485,2004 975,1991 977,1977 973,1945 719,1939 713,1941"/>
+        <Baseline points="485,1983 977,1977"/>
+        <TextEquiv>
+          <Unicode>sen alloit a ung sien chasteau ou il a-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e62d43ba" custom="structure {type:DefaultLine;}">
+        <Coords points="483,2025 483,2054 588,2041 635,2050 648,2052 650,2052 671,2050 738,2039 769,2045 790,2052 792,2052 794,2052 980,2039 980,2020 973,1985 481,1989 483,2025"/>
+        <Baseline points="483,2025 980,2020"/>
+        <TextEquiv conf="0.9890356895170713">
+          <Unicode>uoit une dãe que moult aimoit et elle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_0356f969"  custom="structure {type:MainZone;}">
+      <Coords points="1078,275 1465,275 1532,308 1524,2006 1499,2022 1059,2031 1042,291 1078,275"/>
+      
+      
+      <TextLine id="eSc_line_95caec54" custom="structure {type:DefaultLine;}">
+        <Coords points="1488,287 1476,281 1280,277 1280,277 1259,277 1238,277 1217,277 1196,277 1176,277 1155,277 1134,277 1113,277 1092,277 1071,277 1053,283 1050,306 1048,325 1511,339 1515,320 1507,295 1488,287"/>
+        <Baseline points="1050,306 1515,320"/>
+        <TextEquiv>
+          <Unicode>ne lamoit point si lui auoit on donne</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_bff445e6" custom="structure {type:DefaultLine;}">
+        <Coords points="1363,316 1342,316 1321,316 1301,314 1280,314 1259,314 1246,312 1050,316 1050,352 1048,362 1513,372 1517,358 1515,325 1369,322 1365,316 1363,316"/>
+        <Baseline points="1050,352 1517,358"/>
+        <TextEquiv conf="0.9835330731159931">
+          <Unicode>a entendre que celui en deuoit amener</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2dce3782" custom="structure {type:DefaultLine;}">
+        <Coords points="1048,389 1046,402 1515,412 1520,397 1520,362 1048,354 1048,389"/>
+        <Baseline points="1048,389 1520,397"/>
+        <TextEquiv>
+          <Unicode>celle dame ennuit, et pource cestoit il</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2880e89f" custom="structure {type:DefaultLine;}">
+        <Coords points="1053,435 1053,454 1513,456 1515,435 1515,402 1053,397 1053,435"/>
+        <Baseline points="1053,435 1515,435"/>
+        <TextEquiv>
+          <Unicode>parti a telle heure de cĩtagel. Si tost</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_89995611" custom="structure {type:DefaultLine;}">
+        <Coords points="1053,472 1050,481 1513,493 1517,477 1515,443 1053,437 1053,472"/>
+        <Baseline points="1053,472 1517,477"/>
+        <TextEquiv>
+          <Unicode>cõme dinas uoit les deux cheualiers</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5160ca1b" custom="structure {type:DefaultLine;}">
+        <Coords points="1053,516 1053,535 1515,537 1517,516 1517,483 1053,483 1053,516"/>
+        <Baseline points="1053,516 1517,516"/>
+        <TextEquiv conf="0.9829579564028008">
+          <Unicode>armez si sceut biẽ q̃ cestoiẽt cheualiers</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_189aff56" custom="structure {type:DefaultLine;}">
+        <Coords points="1053,552 1050,566 1513,572 1517,558 1515,525 1053,518 1053,552"/>
+        <Baseline points="1053,552 1517,558"/>
+        <TextEquiv conf="0.9739390560558864">
+          <Unicode>errans si sapproucha plus hardimẽt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9bc9a15e" custom="structure {type:DefaultLine;}">
+        <Coords points="1053,593 1050,606 1513,618 1517,600 1515,560 1053,558 1053,593"/>
+        <Baseline points="1053,593 1517,600"/>
+        <TextEquiv conf="0.9957825303077698">
+          <Unicode>de eulx et quãt il uint prez de eulx si</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2a747a06" custom="structure {type:DefaultLine;}">
+        <Coords points="1055,637 1055,656 1520,650 1520,637 1520,606 1055,595 1055,637"/>
+        <Baseline points="1055,637 1520,637"/>
+        <TextEquiv>
+          <Unicode>recõgnut keux a lescu aussi fist il ga-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_50f5719e" custom="structure {type:DefaultLine;}">
+        <Coords points="1053,679 1053,689 1513,691 1517,677 1513,643 1050,643 1053,679"/>
+        <Baseline points="1053,679 1517,677"/>
+        <TextEquiv conf="0.9876142783862788">
+          <Unicode>heriet. keux fait il bõne nuit uoꝰ doĩt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_381a44af" custom="structure {type:DefaultLine;}">
+        <Coords points="1053,718 1053,731 1520,729 1520,718 1520,685 1053,683 1053,718"/>
+        <Baseline points="1053,718 1520,718"/>
+        <TextEquiv>
+          <Unicode>dieu et dont uenez/ uous a ceste heure</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_43d81628" custom="structure {type:DefaultLine;}">
+        <Coords points="1053,760 1053,777 1513,770 1515,756 1509,722 1050,722 1053,760"/>
+        <Baseline points="1053,760 1515,756"/>
+        <TextEquiv>
+          <Unicode>ie cuidoye que uous feussiez dedẽs cĩ-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_248b0464" custom="structure {type:DefaultLine;}">
+        <Coords points="1053,800 1053,810 1515,812 1517,800 1517,764 1053,762 1053,800"/>
+        <Baseline points="1053,800 1517,800"/>
+        <TextEquiv conf="0.9827764085360936">
+          <Unicode>tagel. Qui estes uous dist keux qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_eb6e4421" custom="structure {type:DefaultLine;}">
+        <Coords points="1055,837 1053,856 1515,856 1517,841 1515,808 1055,802 1055,837"/>
+        <Baseline points="1055,837 1517,841"/>
+        <TextEquiv conf="0.978647243035467">
+          <Unicode>si bien me congnoissez. Eu nõ dieu ie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f2e94d77" custom="structure {type:DefaultLine;}">
+        <Coords points="1053,881 1053,895 1511,893 1513,877 1507,843 1050,845 1053,881"/>
+        <Baseline points="1053,881 1513,877"/>
+        <TextEquiv>
+          <Unicode>suis dinas le seneschal. Quãt keux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a48b9811" custom="structure {type:DefaultLine;}">
+        <Coords points="1055,925 1055,937 1513,931 1515,918 1509,881 1053,889 1055,925"/>
+        <Baseline points="1055,925 1515,918"/>
+        <TextEquiv>
+          <Unicode>oit ce si sentrefirent feste; et ou alle uoꝰ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f87b2036" custom="structure {type:DefaultLine;}">
+        <Coords points="1057,964 1057,979 1513,979 1515,958 1509,922 1055,929 1057,964"/>
+        <Baseline points="1057,964 1515,958"/>
+        <TextEquiv>
+          <Unicode>a ceste heure dist keux. Par ma foy ie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d154a314" custom="structure {type:DefaultLine;}">
+        <Coords points="1055,1006 1055,1014 1515,1012 1515,1000 1509,962 1053,970 1055,1006"/>
+        <Baseline points="1055,1006 1515,1000"/>
+        <TextEquiv conf="0.9643145948648453">
+          <Unicode>men uoys a ung miẽ chasteau fait di</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e87479a4" custom="structure {type:DefaultLine;}">
+        <Coords points="1059,1045 1059,1062 1517,1056 1517,1039 1511,1004 1057,1010 1059,1045"/>
+        <Baseline points="1059,1045 1517,1039"/>
+        <TextEquiv>
+          <Unicode>nas; lors lui cõte lachoison sicõme ie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_05ec7f54" custom="structure {type:DefaultLine;}">
+        <Coords points="1059,1087 1059,1100 1513,1093 1515,1081 1509,1047 1057,1052 1059,1087"/>
+        <Baseline points="1059,1087 1515,1081"/>
+        <TextEquiv conf="0.9973481413390901">
+          <Unicode>uous ay conte. Eu nõ dieu dyent les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3778e69f" custom="structure {type:DefaultLine;}">
+        <Coords points="1495,1083 1474,1083 1453,1083 1449,1083 1057,1095 1059,1127 1059,1141 1511,1137 1513,1118 1507,1083 1495,1083"/>
+        <Baseline points="1059,1127 1513,1118"/>
+        <TextEquiv conf="0.9688260884661424">
+          <Unicode>cõpaignõs nous irõs auecq̃s uous si</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9e359b3a" custom="structure {type:DefaultLine;}">
+        <Coords points="1059,1168 1059,1185 1513,1170 1513,1160 1507,1127 1057,1135 1059,1168"/>
+        <Baseline points="1059,1168 1513,1160"/>
+        <TextEquiv conf="0.9963150848360622">
+          <Unicode>uous ferons cõpagnie. Eu non dieu</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8fe71490" custom="structure {type:DefaultLine;}">
+        <Coords points="1061,1210 1061,1231 1509,1214 1511,1200 1505,1166 1059,1175 1061,1210"/>
+        <Baseline points="1061,1210 1511,1200"/>
+        <TextEquiv>
+          <Unicode>fait dinas uous soyez les tresbien ue-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e049a17e" custom="structure {type:DefaultLine;}">
+        <Coords points="1059,1250 1059,1260 1515,1252 1515,1241 1509,1202 1057,1216 1059,1250"/>
+        <Baseline points="1059,1250 1515,1241"/>
+        <TextEquiv>
+          <Unicode>nus. lors se mettent a la uoye et che-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_515d23a3" custom="structure {type:DefaultLine;}">
+        <Coords points="1059,1289 1059,1304 1511,1300 1513,1279 1507,1247 1057,1256 1059,1289"/>
+        <Baseline points="1059,1289 1513,1279"/>
+        <TextEquiv>
+          <Unicode>uauchẽt tãt quilz uiẽnẽt au chasteau</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f7a20083" custom="structure {type:DefaultLine;}">
+        <Coords points="1059,1331 1059,1345 1515,1333 1515,1320 1509,1287 1057,1289 1059,1331"/>
+        <Baseline points="1059,1331 1515,1320"/>
+        <TextEquiv conf="0.98016181990907">
+          <Unicode>dont la dame estoit ia partie par une</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a04552a8" custom="structure {type:DefaultLine;}">
+        <Coords points="1061,1372 1061,1385 1513,1375 1513,1360 1507,1325 1059,1337 1061,1372"/>
+        <Baseline points="1061,1372 1513,1360"/>
+        <TextEquiv>
+          <Unicode>corde q̃lle auoit atachee aux fenestres</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_be26769a" custom="structure {type:DefaultLine;}">
+        <Coords points="1061,1410 1061,1425 1511,1412 1511,1400 1505,1368 1059,1372 1061,1410"/>
+        <Baseline points="1061,1410 1511,1400"/>
+        <TextEquiv>
+          <Unicode>de la tour pource q̃lle trouua les por-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d3c94167" custom="structure {type:DefaultLine;}">
+        <Coords points="1061,1454 1061,1466 1513,1452 1513,1439 1507,1402 1059,1420 1061,1454"/>
+        <Baseline points="1061,1454 1513,1439"/>
+        <TextEquiv>
+          <Unicode>tes fermees et lauoit le cheualier q̃lle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_463cd752" custom="structure {type:DefaultLine;}">
+        <Coords points="1061,1493 1061,1510 1511,1502 1513,1481 1507,1445 1059,1460 1061,1493"/>
+        <Baseline points="1061,1493 1513,1481"/>
+        <TextEquiv>
+          <Unicode>aimoit amenee. Quãt ilz sõ uenus a</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c538953f" custom="structure {type:DefaultLine;}">
+        <Coords points="1061,1535 1061,1547 1507,1539 1509,1520 1503,1483 1059,1504 1061,1535"/>
+        <Baseline points="1061,1535 1509,1520"/>
+        <TextEquiv>
+          <Unicode>ce chasteau dinas ua a la tour mais</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a5e8c0a4" custom="structure {type:DefaultLine;}">
+        <Coords points="1067,1575 1067,1587 1509,1577 1509,1560 1503,1527 1065,1541 1067,1575"/>
+        <Baseline points="1067,1575 1509,1560"/>
+        <TextEquiv>
+          <Unicode>il ne trouua pas samie mais il trou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_339ad0e4" custom="structure {type:DefaultLine;}">
+        <Coords points="1063,1616 1063,1627 1507,1610 1507,1600 1501,1564 1061,1581 1063,1616"/>
+        <Baseline points="1063,1616 1507,1600"/>
+        <TextEquiv>
+          <Unicode>ua la corde par ou elle estoit deuallee</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b1df428d" custom="structure {type:DefaultLine;}">
+        <Coords points="1067,1656 1067,1670 1505,1660 1507,1639 1501,1606 1065,1622 1067,1656"/>
+        <Baseline points="1067,1656 1507,1639"/>
+        <TextEquiv>
+          <Unicode>et uoit quelle auoit emporte deux bra</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_78052303" custom="structure {type:DefaultLine;}">
+        <Coords points="1063,1695 1063,1708 1505,1702 1505,1683 1499,1643 1061,1660 1063,1695"/>
+        <Baseline points="1063,1695 1505,1683"/>
+        <TextEquiv>
+          <Unicode>ches qui estoiẽt a dinas qͥl amoit trop</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_40e26da6" custom="structure {type:DefaultLine;}">
+        <Coords points="1063,1735 1063,1756 1509,1735 1509,1725 1503,1687 1061,1702 1063,1735"/>
+        <Baseline points="1065,1737 1511,1727"/>
+        <TextEquiv>
+          <Unicode>pource qͥl estoiẽt extraictz de hudain</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_82c09bd4" custom="structure {type:DefaultLine;}">
+        <Coords points="1065,1775 1065,1791 1528,1781 1530,1770 1524,1727 1063,1741 1065,1775"/>
+        <Baseline points="1067,1777 1531,1772"/>
+        <TextEquiv>
+          <Unicode>le brachet T.si en fut trop dolẽt si ui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_70907644" custom="structure {type:DefaultLine;}">
+        <Coords points="1517,1772 1497,1772 1476,1772 1455,1772 1451,1772 1059,1781 1061,1816 1061,1829 1376,1833 1378,1833 1538,1814 1538,1804 1532,1770 1517,1770 1517,1772"/>
+        <Baseline points="1063,1818 1539,1806"/>
+        <TextEquiv>
+          <Unicode>ent aux. ii. cõpaignõs et dit seigñrs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2fbdced6" custom="structure {type:DefaultLine;}">
+        <Coords points="1207,1812 1194,1822 1082,1816 1080,1816 1078,1816 1059,1825 1061,1858 1061,1879 1532,1858 1534,1845 1530,1816 1223,1812 1207,1812"/>
+        <Baseline points="1063,1860 1535,1846"/>
+        <TextEquiv>
+          <Unicode>or uous reposez car il me ꝯuiẽt sercher</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c9dfe7f0" custom="structure {type:DefaultLine;}">
+        <Coords points="1067,1900 1067,1918 1524,1895 1524,1881 1517,1850 1065,1864 1067,1900"/>
+        <Baseline points="1069,1900 1525,1883"/>
+        <TextEquiv>
+          <Unicode>tãt que ie trouueray celui qͥ mamie a-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c425ae9c" custom="structure {type:DefaultLine;}">
+        <Coords points="1067,1937 1067,1952 1507,1941 1509,1927 1503,1887 1065,1906 1067,1937"/>
+        <Baseline points="1069,1939 1511,1929"/>
+        <TextEquiv>
+          <Unicode>maine et mes braches dont ie suis plꝰ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_bb660e31" custom="structure {type:DefaultLine;}">
+        <Coords points="1501,1929 1480,1929 1459,1929 1438,1929 1417,1931 1397,1931 1380,1931 1063,1943 1065,1977 1065,1989 1215,1997 1217,1997 1524,1977 1524,1964 1517,1925 1501,1925 1501,1929"/>
+        <Baseline points="1067,1979 1525,1966"/>
+        <TextEquiv conf="0.9823817228659605">
+          <Unicode>courouce que ie ne suis de elle. Eu nõ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5f770751" custom="structure {type:DefaultLine;}">
+        <Coords points="1497,1966 1476,1966 1455,1966 1434,1968 1413,1968 1394,1968 1059,1985 1061,2020 1061,2058 1173,2056 1176,2056 1190,2052 1232,2039 1305,2043 1386,2047 1388,2047 1390,2047 1426,2035 1428,2033 1430,2033 1455,2045 1457,2045 1459,2045 1461,2045 1515,2027 1515,2004 1509,1966 1497,1966"/>
+        <Baseline points="1063,2022 1517,2006"/>
+        <TextEquiv>
+          <Unicode>dieu fõt ilz noꝰ irõs aueq̃s uoꝰ. sachez</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_654465ad"  custom="structure {type:DropCapitalZone;}">
+      <Coords points="492,1308 540,1341 531,1389 483,1364 492,1308"/>
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
