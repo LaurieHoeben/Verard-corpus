@@ -69,4 +69,4 @@ jobs:
           pip install htrvx
       - name: Run HTRVX
         run: |
-          htrvx --verbose --group --format page --check-empty --segmonto ./data/**/*.xml
+          htrvx --verbose --group --format page --check-empty ./data/**/*.xml
