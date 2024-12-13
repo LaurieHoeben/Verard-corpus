@@ -1,0 +1,72 @@
+# This file has been generated automatically with HTR-United <3 Github Actions form
+name: HTR United Workflow
+'on':
+  - push
+  - pull_request
+permissions:
+  contents: write
+jobs:
+  HTRUC:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install htruc
+      - name: Run HTRUC
+        run: |
+          htruc test antoine-verard-extracts.yml
+  HTR_United_Metadata_Generator:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install htr-united-metadata-generator
+      - name: Run Report
+        run: |
+          humGenerator --chars -n NFD --parse page --group ./data/**/*.xml --github-envs --to-json updated_metrics.json
+          cat envs.txt >> $GITHUB_ENV
+  ChocoMufin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install chocomufin
+      - name: Run ChocoMufin
+        run: |
+          chocomufin generate table.csv ./data/**/*.xml
+          cat table.csv
+  HTRVX:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install htrvx
+      - name: Run HTRVX
+        run: |
+          htrvx --verbose --group --format page --check-empty --segmonto --xsd --raise-empty ./data/**/*.xml
