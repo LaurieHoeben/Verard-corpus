@@ -8,3 +8,4 @@ Parts (10 pages) of Vérard's Editions princeps of the following texts:
 - *Gyron le Gourtoys* [1501/1503] shelfmark: RES-Fol-Bl-922, folios 12r-16v
 
 The transcription software Escriptorium was used to transcribe the documents. 
+The transcriptions are based on the following guidelines from Ariane Pinche, "Guide de transcription pour les manuscrits du Xe au XVe siècle", 2022 [(hal-03697382f)](https://hal.science/hal-03697382)
